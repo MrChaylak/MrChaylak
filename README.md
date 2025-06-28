@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Osman</h1>
-<h3 align="center">A senior software engineering student with a passion for Full Stack and Python programming. I love aviation and gaming.</h3>
+<h3 align="center">A software engineer with a passion for Full Stack and Python programming. I love aviation and gaming.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrChaylak&label=Profile%20views&color=a900f8&style=flat-square" alt="MrChaylak" /> </p>
 
 <img align="right" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFha211eHlhbTY0djI3YmlnZzM4NDc2ZnNvcnUwcnBpazAwemgwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.webp" width="200"/>
